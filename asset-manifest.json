@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prince-Gizard/markdown-previewer.git/static/css/main.98e5084b.css",
+    "main.js": "/Prince-Gizard/markdown-previewer.git/static/js/main.fefb4158.js",
+    "index.html": "/Prince-Gizard/markdown-previewer.git/index.html",
+    "main.98e5084b.css.map": "/Prince-Gizard/markdown-previewer.git/static/css/main.98e5084b.css.map",
+    "main.fefb4158.js.map": "/Prince-Gizard/markdown-previewer.git/static/js/main.fefb4158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98e5084b.css",
+    "static/js/main.fefb4158.js"
+  ]
+}
